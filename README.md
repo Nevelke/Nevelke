@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Nevelke
 - 👀 I’m interested in Physics, football/soccer
-- 🌱 I’m currently learning Python, C#, JavaScript
-- 💞️ I’m looking to collaborate on (No im not.)
+- 🌱 I’m currently learning: Linux Server, Docker, Bash
+- 👑 Skilled in: Python, C#, JavaScript
+- 💞️ Currently looking for intership in following: DevOps, WebDev (backend)
 - 📫 How to reach me via email: filmich01@gmail.com
